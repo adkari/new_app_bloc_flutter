@@ -1,4 +1,4 @@
-import 'package:news_app/model/news_bloc.dart';
+import 'package:news_app/services/news_bloc.dart';
 import 'package:news_app/services/api_services.dart';
 import 'package:flutter/material.dart';
 import 'components/customListTile.dart';
